@@ -6,3 +6,4 @@
 - [Shell脚本专家指南](Expert.Shell.Scripting)
 - [Shell脚本编程诀窍 适用于Linux、Bash等](Shell.Scripting.Expert.Recipes)
 - [Efficient Linux命令行](Efficient.Linux.At.The.Command.Line)
+- [Linux命令行与shell脚本编程大全](Linux.Command.Line.And.Shell.Scripting.Bible)
